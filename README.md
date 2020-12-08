@@ -1,2 +1,2 @@
 # Pendaftaran-Skripsi
-Tools pendaftaran skripsi untuk UWG
+Tools pendaftaran skripsi untuk UWG -> Native PHP
